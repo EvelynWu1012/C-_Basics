@@ -5,7 +5,6 @@ using namespace std;
 int main(){
 
     // numbers - int, float, double
-
     20; 500; -100; 0; // int (whole numbers)
     1.5f; 9.99f; 3.14f; 10.0f; // float, 7 digits after the decimal 
     1.5; 9.99; 3.14; 10.0; // double, 15 digits after the decimal
@@ -37,9 +36,5 @@ int main(){
     // it is not recommended for the smaller programm
     auto PI = 3.141592653;
     cout << PI;
-
-
-
-
 
 }
