@@ -31,8 +31,8 @@ int main(){
     cout << typeid(hungry).name() << endl; // b stands for boolean
     cout << typeid(doller).name() << endl; // c stands for character
 
-    cout << typeid(1.5).name() << endl; 
-    cout << typeid(1.5f).name() << endl; 
+    cout << typeid(1.5).name() << endl; // 1.5 double
+    cout << typeid(1.5f).name() << endl; // 1.5f float
 
 
 
